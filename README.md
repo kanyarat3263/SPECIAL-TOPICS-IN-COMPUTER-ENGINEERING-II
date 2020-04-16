@@ -1,13 +1,8 @@
 ## SPECIAL TOPICS IN COMPUTER ENGINEERING II
+ฺ
+### BLENDER 
 
-You can use the [editor on GitHub](https://github.com/kanyarat3263/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### TOPIC
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ โปรแกรม Blender เป็นโปรแกรมที่ใช้สำหรับการสร้างโมเดลสามมิติ , การทำอนิเมชั่น , ตัดต่อวิดีโอต่าง ๆ ซึ่งโปรแกรม blender เป็นซอฟแวร์ฟรีที่ไม่ต้องเสียค่าใช้จ่าย สามารถใช้ประกอบการเรียนการสอน และทำงานกราฟฟิคต่าง ๆ
 ```markdown
 Syntax highlighted code block
 
