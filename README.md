@@ -11,11 +11,11 @@
 
 ---
 ### เนื้อหางานที่ทำจากโปรแกรม Blender 
- - [การสร้างโมเดล](#)<br>
- - [การใส่ Materail](#)<br>
- - [การใส่ Lighting & Color](#)<br>
- - [การทำ Animation](#)<br>
- - [Video Editor](#)<br>
+ - [การสร้างโมเดล](model.md)<br>
+ - [การใส่ Materail](materail.md)<br>
+ - [การใส่ Lighting & Color](lightandcolor.md)<br>
+ - [การทำ Animation](animation.md)<br>
+ - [Video Editor](videoeditor.md)<br>
  - [Project](project.md)<br>
  
  ---
