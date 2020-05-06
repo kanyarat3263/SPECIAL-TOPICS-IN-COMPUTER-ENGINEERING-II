@@ -16,7 +16,7 @@
  - [การใส่ Lighting & Color](#)<br>
  - [การทำ Animation](#)<br>
  - [Video Editor](#)<br>
- - [Project](https://youtu.be/OyZQZT3nxxk)<br>
+ - [Project](project.md)<br>
  
  ---
  
