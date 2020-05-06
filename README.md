@@ -17,7 +17,7 @@
  - [การทำ Animation](animation.md)<br>
  - [Video Editor](videoeditor.md)<br>
  - [การกำหนดสีพื้นหลังหรือสีต่างๆให้อ๊อบเจค](objectcolor.md)<br>
- - [การทำพุ่มไม่ทรงสี่เหลี่ยม](bush.md)<br>
+ - [การทำพุ่มไม้ทรงสี่เหลี่ยม](bush.md)<br>
  - [การทำหญ้าแบบง่ายๆ](grass.md)<br>
  - [การเซตฉากเปิดตัว VTR](vtr.md)<br>
  - [Project](project.md)<br>
