@@ -1,5 +1,5 @@
 ### การสร้าง Model
-
+<img src="image/model/1.1.png">
 ![image](https://github.com/kanyarat3263/SPECIAL-TOPICS-IN-COMPUTER-ENGINEERING-II/blob/master/image/model/1.1.png)<br>
 ![image](https://github.com/kanyarat3263/SPECIAL-TOPICS-IN-COMPUTER-ENGINEERING-II/blob/master/image/model/1.2.png)<br>
 ![image](https://github.com/kanyarat3263/SPECIAL-TOPICS-IN-COMPUTER-ENGINEERING-II/blob/master/image/model/1.3.png)<br>
