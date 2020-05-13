@@ -6,7 +6,6 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 <br>
 
 <img src="image/project/p1.png"><br>
-</img>
 <br>
 ## ตัวละคร 
 &nbsp;&nbsp;&nbsp;&nbsp; ประกอบไปด้วยโมเดลตัวละครทั้งหมด 4 ตัว คือ นมเย็น , บลูเบอร์รี่ , ชีสเค้ก และนักเก็ต <br>
@@ -15,7 +14,6 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 <img src="image/project/p3.png"><br>
 <img src="image/project/p4.png"><br>
 <img src="image/project/p5.png"><br>
-<br>
 
 ## ฉาก
 &nbsp;&nbsp;&nbsp;&nbsp; ประกอบไปด้วยฉากทั้งหมด 3 คือ ฉากภายในบ้าน , ฉากในสวน และฉากโลกดนตรี โดยในฉากขะประกอบไปด้วยโมเดลต่าง ๆ ที่เป็นเฟอร์นิเจอร์ เช่น พุ่มไม้ , หญ้า , เตียงนอน , โซฟา , รูปภาพติดผนัง เป็นต้น
