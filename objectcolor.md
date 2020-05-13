@@ -11,6 +11,6 @@ link video --> [Click Link](https://youtu.be/QJypwlYIawM)<br>
 <img src="image/objectcolor/6.4.png"><br>
 <img src="image/objectcolor/6.5.png"><br>
 <img src="image/objectcolor/6.6.png"><br>
-
+</img>
 <br>
 [กลับสู่หน้าหลัก](README.md)<br>
