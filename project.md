@@ -18,14 +18,15 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; ประกอบไปด้วยฉากทั้งหมด 3 คือ ฉากภายในบ้าน , ฉากในสวน และฉากโลกดนตรี โดยในฉากขะประกอบไปด้วยโมเดลต่าง ๆ ที่เป็นเฟอร์นิเจอร์ เช่น พุ่มไม้ , หญ้า , เตียงนอน , โซฟา , รูปภาพติดผนัง เป็นต้น
 <br>
 - ฉากภายในบ้าน <br>
+<br>
 <img src="image/project/p6.png"><br>
-</img>
 <br>
 - ฉากในสวน <br>
+<br>
 <img src="image/project/p7.png"><br>
-</img>
 <br>
 - ฉากโลกดนตรี <br>
+<br>
 <img src="image/project/p8.png"><br>
 </img>
 
