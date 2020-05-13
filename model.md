@@ -1,7 +1,12 @@
 # การสร้าง Model
 ### Link สำหรับวิดีโอ
+
+การสร้างโมเดลรูปทรงโดนัทโดยใช้โปรแกรม Blender 2.8 วิดีโอนี้เป็นการทำในส่วนของรูปทรงแป้งโดนัทและ Topping ด้านบน
+<br>
 link video --> [Click Link](https://youtu.be/9mXk0yO0uFM)<br>
 <br>
+
+
 (1) ทำการสร้าง object รูปทรงโดนัทโดยทำการกด shift+A --> Mesh --> Torus  <br>
 <br>
 <img src="image/model/1.1.png"><br>
