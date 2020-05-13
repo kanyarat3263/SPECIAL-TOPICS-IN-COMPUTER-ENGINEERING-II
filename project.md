@@ -19,14 +19,15 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 <br>
 - ฉากภายในบ้าน <br>
 <img src="image/project/p6.png"><br>
+</img>
 <br>
 - ฉากในสวน <br>
 <img src="image/project/p7.png"><br>
+</img>
 <br>
 - ฉากโลกดนตรี <br>
 <img src="image/project/p8.png"><br>
+</img>
 
-</img>
-</img>
 <br>
 [กลับสู่หน้าหลัก](README.md)<br>
