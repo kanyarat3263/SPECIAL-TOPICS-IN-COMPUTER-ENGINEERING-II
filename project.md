@@ -28,7 +28,7 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 - ฉากโลกดนตรี <br>
 <br>
 <img src="image/project/p8.png"><br>
-</img>
+
 
 <br>
 [กลับสู่หน้าหลัก](README.md)<br>
