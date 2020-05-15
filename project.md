@@ -32,6 +32,6 @@ link video --> [Click Link](https://youtu.be/OyZQZT3nxxk)<br>
 (3) ฉากโลกดนตรี <br>
 <br>
 <img src="image/project/p8.png"><br>
-</img>
+
 <br>
 
